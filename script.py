@@ -1,1 +1,1 @@
-print("I love my motherfucking Ninja 650!")
+print("I love my Ninja 650!")
